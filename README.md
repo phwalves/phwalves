@@ -1,5 +1,9 @@
 ## Olá, me chamo Pedro Henrique!
-Estudante de Análise e Desenvolvimento de Sistemas me especializando no desenvolvimento de sites e sistemas.
+🖥️ Estudante de Análise e Desenvolvimento de Sistemas.
+
+🚀Desenvolvedor Fullstack em formação
+
+📍 Goiânia - Goiás
 
 ## Ferramentas e Tecnologias
 Aqui estão algumas tecnologias e ferramentas que tenho familiaridade:
