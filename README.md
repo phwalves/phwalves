@@ -5,7 +5,7 @@ Estudante de Análise e Desenvolvimento de Sistemas me especializando no desenvo
 Aqui estão algumas tecnologias e ferramentas que tenho familiaridade:
 
 ### Tecnologias
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,vite,react,nodejs,nextjs,java,cpp,c,py" />
   </a>
@@ -13,7 +13,7 @@ Aqui estão algumas tecnologias e ferramentas que tenho familiaridade:
 
 
 ### Ferramentas
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vscode,github,spring" />
   </a>
